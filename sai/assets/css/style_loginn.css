@@ -1,0 +1,33 @@
+/* background warna body*/
+.body-login{
+  background: #b3d1ff;
+}
+
+/* background warna login form */
+.login{
+	background-color: #ffffff;
+}
+.fomlogin{
+	margin: 15px;
+	padding: 10px;
+} 
+.textinput{
+	margin: 5px;
+}
+
+/* button login */
+.buttonload {
+  background-color: #4CAF50; /* Green background */
+  border: none; /* Remove borders */
+  color: white; /* White text */
+  padding: 12px 24px; /* Some padding */
+  font-size: 16px; /* Set a font-size */
+  width: 97%;
+  margin-top: 5px;
+}
+
+/* Add a right margin to each icon */
+.fa {
+  margin-left: -12px;
+  margin-right: 8px;
+}
